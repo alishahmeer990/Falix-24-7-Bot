@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "MonkeySMO",
+    "password": "afkbot",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "monkeysmpuniverse.falix.gg",
+    "port": 29172,
     "version": "",
     "try-creative": false
   },
